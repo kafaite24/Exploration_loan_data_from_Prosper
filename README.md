@@ -1,4 +1,4 @@
-# data_visualizion
+# Exploration of Loan Data from Prosper
 
 ## Overview
 
